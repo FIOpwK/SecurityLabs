@@ -3,12 +3,22 @@
 
 # Project23Labs
 
-Project: RomanNameral - a game designed to entertain users. Ever wanted to know how much a name weighed? Now you can 
-find out with RomanNameral. Play using any username, real name, pet name etc.. to see its 'weight'.
+Project: RomanNameral - a game designed script ran to entertain users. Ever wanted to know how much a name REALLY weighes? 
+Find out NOW with RomanNameral3. Play using any username, real name, pet name etc.. to see its 'weight'.
 
+games:
 'weight' equals a force of attraction on an object, i.e a name. Or maybe not?
+'weight' equals a foresight of attraction on respect gained, i.e from a name.
+'weight' equals same
+'weight' equals more 
+'weight' equals less
+'weight' equals complex
+'weight' equals compliment
+'weight' equals sin
 
-RomanNameral is a New, Classic, Family Friendly, fun Holiday Party or any occassion game.
+Get the point?
+
+RomanNameral's "Name Weight Game" is a New, Classic, Family Friendly, fun Holiday Party or any occassion game.
 
 pending patent ID
 e913d5c6af0cd45f5f6ac8d761844f24155c4398
@@ -18,26 +28,21 @@ e913d5c6af0cd45f5f6ac8d761844f24155c4398
 
 Welcome to RomanNameral:
 
-# "The Name Weight" Game
+Using RomanNameral3.pl:
+
+# The Name Weight Game"
 
 Before you dive too deep in getting lots of weights, read this section to avoid confusion about RomanNameral's 'Name 
-Weight' game. Both "Name Weight" and "The Name Weight Game" describe the "Name Weigh" game in reference and 
-indirectly. The weight of a name or "Name Weight" is found with RomanNameral. "The Name Weight Game" that users play using RomanNameral, is one of RomanNameral's great benefits and proof of its fun.
+Weight' game. Both "Name Weight" and "Name Weight Game" describes the "Name Weigh" idea in reference and 
+indirectly. The weight of a name or "Name Weight" is found with RomanNameral. 
+The "Name Weight Game" that users play using RomanNameral, is one of RomanNameral's great benefits and proof of its fun.
 
 RomanNameral is the official title of the product used to play "Name Weght" games.
 
 
 # Your Rules:
 
-Play any name. Play many names. Play "Name Weight" games. 
-
--weight is more than
-
--weight is less than
-
--weight is equal
-
--weight is 0
+Play any name. Play many names. Play "Name Weight" games.
 
 
 # Game Rules:
@@ -45,7 +50,7 @@ Play any name. Play many names. Play "Name Weight" games.
 Play all rules. Weigh all names. Exit if no rules apply.
 
 # Demo
--weight is empty:
+#-weight is empty:
 
 
 user: ./RomanNameral.pl
@@ -55,12 +60,11 @@ Enter a name to see its weight:
 
 
 
- 
 
 user:
 
 
--weight is displayed:
+#-weight is displayed:
 
 user: ./RomanNameral.pl 
 
@@ -77,5 +81,7 @@ Enter a name to see its weight:
 
 # TODO
 -Collect Comments on RomanNameral
+--* category suggestion games-misc
 
 -Fix documentation on "The Name Weight Game"
+-
