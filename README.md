@@ -86,7 +86,14 @@ domhnall
 Enter a name to see its weight:
 
 
+# Note:
+-script has security flaws. students are encourage to test and patch any flaws found in program
+
+-never run this script outside of a testing environment.
 # TODO
 -Collect Comments on RomanNameral
 --* category suggestion games-misc on gentoo
+
+-Add more notes
+
 -Fix documentation on "The Name Weight Game"
