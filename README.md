@@ -1,19 +1,26 @@
 
 # SecurityLabs
 
-# Project23Labs
+# Project
 
-Project: RomanNameral - a game designed script ran to entertain users. Ever wanted to know how much a name REALLY weighes? 
+RomanNameral - a game designed script ran to entertain users. Ever wanted to know how much a name REALLY weighes? 
 Find out NOW with RomanNameral3. Play using any username, real name, pet name etc.. to see its 'weight'.
 
-games:
+# Games
 'weight' equals a force of attraction on an object, i.e a name. Or maybe not?
+
 'weight' equals a foresight of attraction on respect gained, i.e from a name.
+
 'weight' equals same
+
 'weight' equals more 
+
 'weight' equals less
+
 'weight' equals complex
+
 'weight' equals compliment
+
 'weight' equals sin
 
 Get the point?
@@ -81,7 +88,5 @@ Enter a name to see its weight:
 
 # TODO
 -Collect Comments on RomanNameral
---* category suggestion games-misc
-
+--* category suggestion games-misc on gentoo
 -Fix documentation on "The Name Weight Game"
--
