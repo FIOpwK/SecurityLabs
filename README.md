@@ -88,8 +88,11 @@ Enter a name to see its weight:
 
 # Note:
 -script has security flaws. students are encourage to test and patch any flaws found in program
+-
+see: https://www.owasp.org/index.php/String_Termination_Error for details
 
 -never run this script outside of a testing environment.
+
 # TODO
 -Collect Comments on RomanNameral
 --* category suggestion games-misc on gentoo
