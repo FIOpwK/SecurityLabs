@@ -9,3 +9,5 @@ https://codepen.io/flopwiki/pen/WVoyMY
 https://codepen.io/flopwiki/pen/NQpWgm
 
 # Roman Nameral (Perl)
+# Other Resources
+https://innovativeclassroom.com/Teaching-Idea/Center+Focus/How+Much+Does+Your+Name+Weigh%3F?fbclid=IwAR0nCxYvarjihFCGStIOWt7lONPrADyW5jDzCYjuyTFDC-uAjA9Xt0nCcRk
