@@ -3,10 +3,10 @@
 Security Projects
 
 # Roman Nameral (Javascript)
-https://codepen.io/flopwiki/pen/WVoyMY
+https://codepen.io/flopwiki/full/WVoyMY
 
 # Roman Nameral 2 (Javascript)
-https://codepen.io/flopwiki/pen/NQpWgm
+https://codepen.io/flopwiki/full/NQpWgm
 
 # Roman Nameral (Perl)
 # Other Resources
