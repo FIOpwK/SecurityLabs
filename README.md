@@ -6,7 +6,7 @@ stay up-to-date with security fixes
 avoid duplicating reports: i.e -visit most frequently reported bugs.
 
 Here, we will cover alot of questions regarding Tools of the Trade.
-Searching for vulnerabilities inside working applications is how we turn value and control into weaponized information.
+_Searching for vulnerabilities inside working applications is how we turn value and control into weaponized information._
 Digital-Forensic, Exploit-Dev, Techinical Writing, Bug-Reporting are covered here.
 
 ## Bug Reporting^1 2016/11
