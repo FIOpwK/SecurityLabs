@@ -5,9 +5,7 @@ Security Projects
 stay up-to-date with security fixes
 avoid duplicating reports: i.e -visit most frequently reported bugs.
 
-Here, we will cover alot of questions regarding Tools of the Trade.
-_Searching for vulnerabilities inside working applications is how we turn value and control into weaponized information._
-Digital-Forensic, Exploit-Dev, Techinical Writing, Bug-Reporting are covered here.
+Here, we will cover alot of questions regarding Tools of the Trade. Searching for vulnerabilities inside working applications is how we turn value and control into weaponized information. Digital-Forensic, Exploit-Dev, Techinical Writing, Bug-Reporting are covered here.
 
 ## Bug Reporting^1 2016/11
 
@@ -95,12 +93,12 @@ Hack the Pentagon(2016)
 
 --!	[begin part 2]		!--
 ## Bug Types: Specialized Research^5
-	-xss cross-site scripting
-	-sqli sql injection
+	-
 	-mobile application vulnerability
-	-csrf cross-site-request-forgery
-	-directory traversal
-	-programming errors
+	-web application vulnerability
+	-desktop application vulnerability
+	-system application vulnerability
+	-
 	
 ## Tools of the Trade^6 
 	-web
